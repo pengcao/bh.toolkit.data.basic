@@ -1,0 +1,38 @@
+
+2018-05-18 00:10:48,403 - Logger - INFO -  this is log info
+2018-05-18 00:12:11,938 - FileUtil - ERROR - read file C:\01develop\01code\self\bh.toolkit.data.basic/conf/districtDict.txt failure
+2018-05-18 08:50:40,919 - FileUtil - ERROR - read file C:\01develop\01code\self\bh.toolkit.data.basic/conf/districtDict.txt failure
+2018-05-19 11:03:49,179 - FileUtil - ERROR - read file C:\01develop\01code\self\bh.toolkit.data.basic/conf/districtDict.txt failure
+2018-05-19 17:09:34,924 - FileUtil - ERROR - read file C:\01develop\01code\self\bh.toolkit.data.basic/conf/districtDict.txt failure
+2018-05-20 11:48:14,005 - Properties - ERROR - 读取配置文件时，出现错误
+2018-05-23 23:01:55,611 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:02:48,193 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:03:31,360 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:04:08,090 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:04:51,307 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:06:24,723 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:08:22,765 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:13:33,476 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:13:58,038 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:14:28,985 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:21:50,213 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:23:20,239 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:39:43,090 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:40:43,185 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-23 23:52:15,755 - ExcelUtil - ERROR - 读取Excel文件失败！
+2018-05-24 22:25:50,899 - ExcelUtil001 - ERROR - 读取Excel文件失败！
+2018-05-24 22:26:31,221 - ExcelUtil001 - ERROR - 读取Excel文件失败！
+2018-05-24 22:26:55,072 - ExcelUtil001 - ERROR - 读取Excel文件失败！
+2018-05-24 22:27:26,214 - ExcelUtil001 - ERROR - 读取Excel文件失败！
+2018-05-24 22:28:31,907 - ExcelUtil001 - ERROR - 读取Excel文件失败！
+2018-05-24 23:41:19,462 - ExcelUtil001 - ERROR - 保存文件失败
+2018-05-24 23:43:41,998 - ExcelUtil001 - ERROR - 保存文件失败
+2018-05-24 23:44:25,738 - ExcelUtil001 - ERROR - 保存文件失败
+2018-05-24 23:46:11,113 - ExcelUtil001 - ERROR - 保存文件失败
+2018-05-25 00:10:36,949 - ExcelUtil - ERROR - 保存文件失败
+2018-05-25 00:11:54,018 - ExcelUtil - ERROR - 保存文件失败
+2018-06-02 11:45:14,038 - WeiBuClawer - INFO - claw the ip : 120.92.86.100
+2018-06-02 11:45:15,966 - WeiBuClawer - INFO - parse the html to get comunity thread
+2018-06-02 11:45:15,978 - WeiBuClawer - INFO - parse the html to get weibu thread
+2018-06-02 11:45:15,992 - WeiBuClawer - INFO - parse the html to get threads
+2018-06-02 11:45:15,997 - WeiBuClawer - INFO - parse the html to get ip gero info
